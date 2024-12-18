@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 # Hi there 👋 It's me Achintha Sandaruwan
 **Software Engineering Student @ Java Institute of Advanced Technology**
