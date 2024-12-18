@@ -46,4 +46,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=dark)
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Achintha-999&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true)
