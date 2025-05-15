@@ -5,7 +5,6 @@
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
-- 🌱 I'm Founder of Endaevor Software Solutions
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: achinthasandaruwan517@gmail.com
 ---
