@@ -50,4 +50,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=yourusername&theme=dracula&animation=glitch)](https://github.com/yourusername)
+[![Snake Game](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)](https://github.com/yourusername)
