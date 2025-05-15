@@ -4,7 +4,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Achintha+Sandaruwan;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation">
   </a>
-</h3>**Software Engineering Student @ Java Institute of Advanced Technology**
+</h1>
+**Software Engineering Student @ Java Institute of Advanced Technology**
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
@@ -53,4 +54,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=yourusername&theme=dracula&animation=glitch)](https://github.com/Achintha-999)
+[![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=Achintha-999&theme=nightowl&animation=wave)](https://github.com/Achintha-999)
