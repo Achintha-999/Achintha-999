@@ -1,7 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
-# Hi there 👋 It's me Achintha Sandaruwan
-**Software Engineering Student @ Java Institute of Advanced Technology**
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Achintha+Sandaruwan;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation">
+  </a>
+</h3>**Software Engineering Student @ Java Institute of Advanced Technology**
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
