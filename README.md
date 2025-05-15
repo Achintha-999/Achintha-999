@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Achintha+Sandaruwan;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation">
   </a>
 </h1>
+
 **Software Engineering Student @ Java Institute of Advanced Technology**
+
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
@@ -43,15 +45,16 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999)
+---
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true)
-
-
+### 🎮 Fun Elements
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=Achintha-999&theme=nightowl&animation=wave)](https://github.com/Achintha-999)
