@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
-<h3 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Achintha+Sandaruwan;Full+Stack+Developer;Open+Source+Contributor" alt="Typing Animation">
   </a>
@@ -53,4 +53,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Snake Game](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)](https://github.com/yourusername)
+[![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=yourusername&theme=dracula&animation=glitch)](https://github.com/Achintha-999)
