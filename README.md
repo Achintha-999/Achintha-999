@@ -57,4 +57,4 @@
 ### 🎮 Fun Elements
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Retro Gaming](https://github-readme-arcade.vercel.app/api?username=Achintha-999&theme=nightowl&animation=wave)](https://github.com/Achintha-999)
+[![Retro](https://github-profile-summary-cards.vercel.app/api/cards/arcade?username=Achintha-999&theme=github_dark)](https://github.com/Achintha-999)
