@@ -49,3 +49,9 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/space-invaders.gif" width="400">
+  <br>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=onedark">
+</p>
