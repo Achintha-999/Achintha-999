@@ -42,8 +42,7 @@
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=dark)
 
-### 🧰 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999)
 
 ### 🔥 GitHub Streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true)
