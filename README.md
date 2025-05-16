@@ -66,21 +66,22 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 🏆 Achievements
+## 🏆 Achintha Sandaruwan's Achievements
 - ![Commits](https://img.shields.io/badge/Hyper_Committer-319pt-blue)
 - ![Stars](https://img.shields.io/badge/Middle_Star-10pt-yellow)
 - ![Followers](https://img.shields.io/badge/Many_Friends-13pt-green)
 - ![Level](https://img.shields.io/badge/Junior_Dev-8pt-orange)
 
-## 📅 Contributions
-![Contributions](https://ghchart.rshah.org/Achintha-999)
+## 📅 Achintha Sandaruwan's Contribution Graph
+
+![Contribution Graph](https://ghchart.rshah.org/Achintha-999)
 
 ---
 
