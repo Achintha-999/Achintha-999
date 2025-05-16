@@ -32,7 +32,7 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010&color=00599C&animation=pulse)](https://github.com/Achintha-999)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010&color=61DAFB&animation=pulse)](https://github.com/Achintha-999)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010&color=339933&animation=pulse)](https://github.com/Achintha-999)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010&color=4479A1&animation=pulse)](https://github.com/Achintha-999)
+
 
 
 #### Frameworks and Libraries & IDEs
