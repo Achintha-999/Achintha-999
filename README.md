@@ -81,7 +81,7 @@
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
-![Contribution Graph](https://ghchart.rshah.org/Achintha-999)
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-compact)
 
 ---
 
