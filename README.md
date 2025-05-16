@@ -73,6 +73,15 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
 </div>
 
+## 🏆 Achievements
+- ![Commits](https://img.shields.io/badge/Hyper_Committer-319pt-blue)
+- ![Stars](https://img.shields.io/badge/Middle_Star-10pt-yellow)
+- ![Followers](https://img.shields.io/badge/Many_Friends-13pt-green)
+- ![Level](https://img.shields.io/badge/Junior_Dev-8pt-orange)
+
+## 📅 Contributions
+![Contributions](https://ghchart.rshah.org/Achintha-999)
+
 ---
 
 ### 🎮 Fun Elements
