@@ -19,13 +19,21 @@
 
 #### Languages I Code In
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010&color=E34F26&animation=pulse)](https://github.com/yourusername)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010&color=F7DF1E&animation=spin)](https://github.com/yourusername)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010&color=777BB4&animation=glitch)](https://github.com/yourusername)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010&color=007396&animation=fade)](https://github.com/yourusername)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010&color=00979D&animation=spin)](https://github.com/yourusername)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010&color=1572B6&animation=pulse)](https://github.com/yourusername)
-[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010&color=CC6699&animation=glitch)](https://github.com/yourusername)
+## 🛠️ Tech Stack (Animated)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010&color=E34F26&animation=pulse)](https://github.com/Achintha-999)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010&color=F7DF1E&animation=pulse)](https://github.com/Achintha-999)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010&color=777BB4&animation=pulse)](https://github.com/Achintha-999)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010&color=ED8B00&animation=pulse)](https://github.com/Achintha-999)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010&color=00979D&animation=pulse)](https://github.com/Achintha-999)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010&color=1572B6&animation=pulse)](https://github.com/Achintha-999)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010&color=CC6699&animation=pulse)](https://github.com/Achintha-999)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010&color=3776AB&animation=pulse)](https://github.com/Achintha-999)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010&color=00599C&animation=pulse)](https://github.com/Achintha-999)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010&color=61DAFB&animation=pulse)](https://github.com/Achintha-999)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010&color=339933&animation=pulse)](https://github.com/Achintha-999)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010&color=4479A1&animation=pulse)](https://github.com/Achintha-999)
+
 
 #### Frameworks and Libraries & IDEs
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
