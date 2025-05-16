@@ -6,11 +6,8 @@
   </a>
 </h1>
 
-**Software Engineering Student @ Java Institute of Advanced Technology**
-
 
 - 👨‍💻 I'm currently learning **Coding**
-- 🎓 I'm an Undergraduate at JIAT
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: achinthasandaruwan517@gmail.com
 ---
