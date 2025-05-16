@@ -74,10 +74,12 @@
 </div>
 
 ## 🏆 Achintha Sandaruwan's Achievements
-- ![Commits](https://img.shields.io/badge/Hyper_Committer-319pt-blue)
-- ![Stars](https://img.shields.io/badge/Middle_Star-10pt-yellow)
-- ![Followers](https://img.shields.io/badge/Many_Friends-13pt-green)
-- ![Level](https://img.shields.io/badge/Junior_Dev-8pt-orange)
+![Hyper Committer](https://img.shields.io/badge/Hyper_Committer-319pt-blue?logo=github&logoColor=white&style=for-the-badge)
+![Middle Star](https://img.shields.io/badge/Middle_Star-10pt-yellow?logo=github&logoColor=white&style=for-the-badge)
+![Many Friends](https://img.shields.io/badge/Many_Friends-13pt-green?logo=github&logoColor=white&style=for-the-badge)
+![Junior Dev](https://img.shields.io/badge/Junior_Dev-8pt-orange?logo=github&logoColor=white&style=for-the-badge)
+![First Issue](https://img.shields.io/badge/First_Issue-1pt-red?logo=github&logoColor=white&style=for-the-badge)
+![First Pull](https://img.shields.io/badge/First_Pull-1pt-purple?logo=github&logoColor=white&style=for-the-badge)
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
