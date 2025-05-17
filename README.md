@@ -70,6 +70,8 @@
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Stats" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=0D1117&dates=FFFFFF&stroke=FFFFFF&fire=FF9B54&ring=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180"/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=donut-3d&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&card_width=600)](https://github.com/Achintha-999)
 
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-dark&hide_border=true&color=58A6FF&line=FF9B54&point=FFFFFF)](https://github.com/Achintha-999)
 </div>
