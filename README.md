@@ -62,6 +62,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<br>
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
@@ -69,6 +70,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
 </div>
+<br>
 
 ## 🏆 Achintha Sandaruwan's Achievements
 ![Hyper Committer](https://img.shields.io/badge/Hyper_Committer-319pt-blue?logo=github&logoColor=white&style=for-the-badge)
@@ -77,6 +79,7 @@
 ![Junior Dev](https://img.shields.io/badge/Junior_Dev-8pt-orange?logo=github&logoColor=white&style=for-the-badge)
 ![First Issue](https://img.shields.io/badge/First_Issue-1pt-red?logo=github&logoColor=white&style=for-the-badge)
 ![First Pull](https://img.shields.io/badge/First_Pull-1pt-purple?logo=github&logoColor=white&style=for-the-badge)
+<br>
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
