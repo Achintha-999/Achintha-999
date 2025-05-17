@@ -69,8 +69,8 @@
 <div align="center">
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Achintha-999&hide_border=true&background=0D1117&dates=FFFFFF&stroke=FFFFFF&fire=FF9B54&ring=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" height="180"/>
-  <!-- Activity Graph (3D) -->
+  <img src="https://streak-stats.demolab.com/?user=Achintha-999&hide_border=true&background=0D1117&dates=58A6FF&stroke=30363D&fire=FF9B54&currStreakLabel=58A6FF" alt="Streak" height="180"/>
+
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-dark&hide_border=true&color=58A6FF&line=FF9B54&point=FFFFFF)](https://github.com/Achintha-999)
 </div>
 <br>
