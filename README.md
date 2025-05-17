@@ -67,11 +67,26 @@
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&
+  title_color=58A6FF&
+  text_color=C9D1D9&
+  icon_color=58A6FF&
+  bg_color=0D1117&
+  border_color=30363D"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&hide_border=true&
+  background=0D1117&
+  dates=58A6FF&
+  stroke=30363D&
+  fire=FF9B54&
+  currStreakLabel=58A6FF"/>
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=tokyonight&hide_border=true&custom_title=My%20Coding%20DNA&animate=true&card_width=500)](https://github.com/Achintha-999)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&
+  title_color=58A6FF&
+  text_color=C9D1D9&
+  bg_color=0D1117&
+  border_color=30363D&
+  custom_title=My%20Coding%20DNA&
+  animate=true)](https://github.com/Achintha-999)
 
  </div>
 <br>
@@ -89,7 +104,7 @@
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-compact)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-compact&bg_color=transparent)
 
 ---
 
