@@ -73,7 +73,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&custom_title=My%20Coding%20DNA&animate=true)](https://github.com/Achintha-999)
 
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-dark&hide_border=true&color=58A6FF&line=FF9B54&point=FFFFFF)](https://github.com/Achintha-999)
+
 </div>
 <br>
 
@@ -90,7 +90,7 @@
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-compact&bg_color=transparent)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&theme=github-dark&hide_border=true&color=58A6FF&line=FF9B54&point=FFFFFF)](https://github.com/Achintha-999)
 
 ---
 
