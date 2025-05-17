@@ -62,7 +62,8 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-<br>
+
+---
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
@@ -80,6 +81,8 @@
 ![First Issue](https://img.shields.io/badge/First_Issue-1pt-red?logo=github&logoColor=white&style=for-the-badge)
 ![First Pull](https://img.shields.io/badge/First_Pull-1pt-purple?logo=github&logoColor=white&style=for-the-badge)
 <br>
+
+---
 
 ## 📅 Achintha Sandaruwan's Contribution Graph
 
