@@ -69,9 +69,11 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=tokyonight&hide_border=true"/>
-</div>
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=tokyonight&hide_border=true&custom_title=My%20Coding%20DNA&animate=true&card_width=500)](https://github.com/Achintha-999)
+
+ </div>
 <br>
 
 ## 🏆 Achintha Sandaruwan's Achievements
