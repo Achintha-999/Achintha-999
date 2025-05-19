@@ -68,7 +68,7 @@
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
   <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" alt="Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF5F1F&text_color=FF9B54&icon_color=FF7034&bg_color=0D1117&border_color=30363D" alt="Stats" height="180"/>
 <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=0D1117&dates=FFFFFF&stroke=FFFFFF&fire=FF9B54&ring=FF5F1F&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180"/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&custom_title=My%20Coding%20DNA&animate=true)](https://github.com/Achintha-999)
