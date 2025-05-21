@@ -68,7 +68,7 @@
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
   
-### 🔥 Dynamic GitHub Profile 🔥
+
 
 <!-- Animated Stats Card with Gradient Border -->
 <a href="https://github.com/Achintha-999">
