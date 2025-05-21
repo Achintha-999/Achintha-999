@@ -88,14 +88,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave" alt="Activity Graph" height="180"/>
 </a>
 
+
+
 </div>
 
-<style>
-  a:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 20px rgba(255, 140, 0, 0.6) !important;
-  }
-</style>
 <br>
 
 ## 🏆 Achintha Sandaruwan's Achievements
