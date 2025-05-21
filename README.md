@@ -66,31 +66,47 @@
 ---
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center" style="margin: 0 auto; max-width: 1200px;">
 
-<div>
-<!-- Stats Card with Glow Border -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" height="180"/>
-</a>
+<!-- Flex Container for Cards -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
 
-<!-- Streak Stats with Glow Border -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
-  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
-</a>
+  <!-- Stats Card -->
+  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" style="height: 200px;"/>
+  </div>
+
+  <!-- Streak Stats -->
+  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease;">
+    <img src="https://streak-stats.demolay.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" style="height: 200px;"/>
+  </div>
+
+  <!-- Languages Card -->
+  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" style="height: 200px; width: 400px;"/>
+  </div>
+
+  <!-- Activity Graph -->
+  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; width: 100%; max-width: 800px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=300" alt="Activity Graph" style="width: 100%;"/>
+  </div>
+
 </div>
-<!-- Languages Card with Glow Border -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" height="180"/>
-</a>
 
-<!-- Activity Graph with Glow Border -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave" alt="Activity Graph" height="180"/>
-</a>
-
-
-
+<style>
+  div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(255, 140, 0, 0.6) !important;
+  }
+  @media (max-width: 768px) {
+    div > div {
+      width: 100%;
+    }
+    img {
+      max-width: 100% !important;
+    }
+  }
+</style>
 </div>
 
 <br>
