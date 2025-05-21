@@ -68,22 +68,20 @@
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
   
-
-
-<!-- Animated Stats Card with Gradient Border -->
+<!-- Stats Card - Higher Contrast -->
 <a href="https://github.com/Achintha-999">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF5F1F&text_color=FF9B54&icon_color=FF7034&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true&line_height=28&ring_color=FF5F1F&animation=radical" alt="Achintha's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=false&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&border_color=444C56&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" height="180"/>
 </a>
 
-<!-- Streak Stats with Fire Animation -->
+<!-- Streak Stats - Smoother Fire -->
 <a href="https://github.com/Achintha-999">
-  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=0D1117&dates=FFFFFF&stroke=FFFFFF&fire=FF9B54&ring=FF5F1F&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FF9B54&sideLabels=FF9B54&animation=twinkling" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=false&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
 </a>
 
 <br/>
 
-<!-- Language DNA with Progress Bars -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF5F1F&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse)](https://github.com/Achintha-999)
+<!-- Languages - Better Readability -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=false&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&border_color=444C56&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse)](https://github.com/Achintha-999)
 
 <!-- Activity Graph -->
 [![Achintha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=0D1117&color=FF9B54&line=FF5F1F&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=8)](https://github.com/Achintha-999)
