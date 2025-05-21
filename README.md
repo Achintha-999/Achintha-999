@@ -66,29 +66,36 @@
 ---
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;>
-  
-<!-- Stats Card - Higher Contrast -->
-<a href="https://github.com/Achintha-999">
-  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=false&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&border_color=444C56&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" height="180"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+<!-- Stats Card with Glow Border -->
+<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" height="180"/>
 </a>
 
-<!-- Streak Stats - Smoother Fire -->
-<a href="https://github.com/Achintha-999">
-  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=false&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
+<!-- Streak Stats with Glow Border -->
+<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
+  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
 </a>
 
-<br/>
-
-<!-- Languages - Better Readability -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 8px; padding: 5px; box-shadow: 0 0 10px rgba(255, 140, 0, 0.3); transition: all 0.3s ease;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&border_color=444C56&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" height="180"/>
+<!-- Languages Card with Glow Border -->
+<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" height="180"/>
 </a>
 
-<!-- Activity Graph -->
-[![Achintha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=false&border_color=444C56&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave)](https://github.com/Achintha-999)
+<!-- Activity Graph with Glow Border -->
+<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave" alt="Activity Graph" height="180"/>
+</a>
 
 </div>
+
+<style>
+  a:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 20px rgba(255, 140, 0, 0.6) !important;
+  }
+</style>
 <br>
 
 ## 🏆 Achintha Sandaruwan's Achievements
