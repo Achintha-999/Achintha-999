@@ -88,7 +88,7 @@
 
   <!-- Activity Graph -->
   <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; width: 100%; max-width: 800px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=300" alt="Activity Graph" style="width: 100%;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=500" alt="Activity Graph" style="width: 100%;"/>
   </div>
 
 </div>
