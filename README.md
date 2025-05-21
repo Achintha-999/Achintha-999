@@ -84,6 +84,7 @@
 <a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 8px; padding: 5px; box-shadow: 0 0 10px rgba(255, 140, 0, 0.3); transition: all 0.3s ease;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&border_color=444C56&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" height="180"/>
 </a>
+
 <!-- Activity Graph -->
 [![Achintha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=false&border_color=444C56&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave)](https://github.com/Achintha-999)
 
