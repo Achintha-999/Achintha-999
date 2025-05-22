@@ -99,12 +99,11 @@
 <br>
 
 ## 🏆 Achintha Sandaruwan's Achievements
-![Hyper Committer](https://img.shields.io/badge/Hyper_Committer-319pt-blue?logo=github&logoColor=white&style=for-the-badge)
-![Middle Star](https://img.shields.io/badge/Middle_Star-10pt-yellow?logo=github&logoColor=white&style=for-the-badge)
-![Many Friends](https://img.shields.io/badge/Many_Friends-13pt-green?logo=github&logoColor=white&style=for-the-badge)
-![Junior Dev](https://img.shields.io/badge/Junior_Dev-8pt-orange?logo=github&logoColor=white&style=for-the-badge)
-![First Issue](https://img.shields.io/badge/First_Issue-1pt-red?logo=github&logoColor=white&style=for-the-badge)
-![First Pull](https://img.shields.io/badge/First_Pull-1pt-purple?logo=github&logoColor=white&style=for-the-badge)
+![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <br>
 
 ---
