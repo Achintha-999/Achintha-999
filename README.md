@@ -97,19 +97,18 @@
 </div>
 
 <br>
+---
 
 ## 🏆 Achintha Sandaruwan's Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
 
 ---
 
-
----
 
 ### 🎮 Fun Elements
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
