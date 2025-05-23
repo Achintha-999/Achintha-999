@@ -72,19 +72,9 @@
 <!-- Flex Container for Cards -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
 
-  <!-- Stats Card -->
-  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&hide_border=true&title_color=FF8C00&text_color=FFFFFF&icon_color=FFA500&bg_color=161B22&include_all_commits=true&count_private=true&line_height=28&ring_color=FF8C00&animation=radical" alt="Stats" style="height: 200px;"/>
-  </div>
-
-  <!-- Streak Stats -->
-<a href="https://github.com/Achintha-999" style="border: 1px solid #444C56; border-radius: 10px; padding: 6px; box-shadow: 0 0 12px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; background: #161B22;">
-  <img src="https://streak-stats.demolab.com/?user=Achintha-999&theme=github-dark&hide_border=true&background=161B22&dates=C9D1D9&stroke=444C56&fire=FF8C00&ring=FF8C00&currStreakNum=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
-</a>
-
-  <!-- Languages Card -->
-  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&hide_border=true&title_color=FF8C00&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Coding%20DNA%20🧬&langs_count=6&hide=Jupyter%20Notebook&animation=pulse" alt="Top Languages" style="height: 200px; width: 400px;"/>
+  ![](https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
 
   <!-- Activity Graph -->
@@ -103,8 +93,10 @@
 ## 🏆 Achintha Sandaruwan's Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=13)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <br>
 
