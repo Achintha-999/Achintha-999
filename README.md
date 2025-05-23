@@ -64,6 +64,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ---
+<br> 
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center" style="margin: 0 auto; max-width: 1200px;">
