@@ -70,14 +70,14 @@
 <div align="center" style="margin: 0 auto; max-width: 1200px;">
 
 <!-- Flex Container for Cards -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+
 
  ![](https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-  </div>
+
 
   <!-- Activity Graph -->
   <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; width: 100%; max-width: 800px;">
