@@ -78,6 +78,8 @@
 <!-- Languages centered below (no border) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
+---
+
 <!-- Activity Graph (no border in container) -->
 <div style="width: 100%; max-width: 800px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00"/>
