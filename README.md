@@ -69,14 +69,19 @@
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center">
 
-<!-- Stats + Streak in one row -->
+<!-- Stats + Streak in one row (no borders) -->
 <a href="https://github.com/Achintha-999">
-<img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true"/>
 </a>
 
-<!-- Languages centered below -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical"/>
+<!-- Languages centered below (no border) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+<!-- Activity Graph (no border in container) -->
+<div style="width: 100%; max-width: 800px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00"/>
+</div>
 
 </div>
 
