@@ -69,23 +69,21 @@
 ### 📊 Achintha Sandaruwan's GitHub Stats
 <div align="center" style="margin: 0 auto; max-width: 1200px;">
 
-<!-- Flex Container for Cards -->
-
-
- ![](https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=radical&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=repo1,repo2)
-
-
-
-
-  <!-- Activity Graph -->
-  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); transition: all 0.3s ease; width: 100%; max-width: 800px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=500" alt="Activity Graph" style="width: 100%;"/>
+  <!-- First Row: Stats + Streak (Side by Side) -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=radical&hide_border=true" />
   </div>
 
+  <!-- Second Row: Languages (Centered) -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  </div>
 
-
+  <!-- Activity Graph -->
+  <div style="border: 1px solid #444C56; border-radius: 10px; padding: 8px; background: #161B22; box-shadow: 0 0 15px rgba(255, 140, 0, 0.4); width: 100%; max-width: 800px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=500" style="width: 100%;"/>
+  </div>
 
 </div>
 
