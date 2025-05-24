@@ -84,7 +84,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=161B22&color=C9D1D9&line=FF8C00&point=FFA500&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=FF8C00&animation=wave&height=500" alt="Activity Graph" style="width: 100%;"/>
   </div>
 
-</div>
+
 
 
 </div>
