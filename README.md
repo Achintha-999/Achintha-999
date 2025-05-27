@@ -14,7 +14,7 @@
 
 ### 🖥️ Tech Stack:
 
-#### Languages I Code In
+#### Languages I Code In and Currently Learning
 
 ![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)
 
