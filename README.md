@@ -17,29 +17,26 @@
 
 #### Languages I Code In and Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=9)
 
 
 #### Frameworks and Libraries 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind&perline=9)
 
 
-## 🔧 IDEs & Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,&perline=9)
+## 🔧 IDEs & Tools Currently Using & Learning
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,unity&perline=9)
 
 
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Database Using & Leaning
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=9)
 
-#### Designs
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+#### Design Tools
+![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,&perline=9)
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
@@ -69,7 +66,8 @@
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+
 
 
 ## 🏆 Achintha Sandaruwan's Achievements
