@@ -16,23 +16,15 @@
 
 #### Languages I Code In
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)]
 
 
 #### Frameworks and Libraries 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)]
 
 
 ## 🔧 IDEs & Tools
-
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010&animation=pulse)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=101010&animation=pulse)](https://www.jetbrains.com/idea/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010&animation=pulse)](https://developer.android.com/studio)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010&animation=pulse)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010&animation=pulse)](https://www.postman.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010&animation=pulse)](https://www.docker.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010&animation=pulse)](https://visualstudio.microsoft.com/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=101010&animation=pulse)](https://netbeans.apache.org/)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,&perline=9)]
 
 
 #### Database
