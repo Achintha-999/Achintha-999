@@ -15,12 +15,12 @@
 
 ### 🖥️ Tech Stack:
 
-#### Languages I Code In and Currently Learning
+#### 👩🏻‍💻 Languages I Code In and Currently Learning
 
 ![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=9)
 
 
-#### Frameworks and Libraries 
+#### 🧱 Frameworks and Libraries Currently Using & Learning
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind&perline=9)
 
 
@@ -28,11 +28,11 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,unity&perline=9)
 
 
-#### Database Using & Leaning
+#### 🕵🏻‍♀️ Database Using & Leaning
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=9)
 
 
-#### Design Tools
+#### 💻 Design Tools
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae,&perline=9)
 
 
