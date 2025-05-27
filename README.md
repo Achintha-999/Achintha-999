@@ -16,17 +16,11 @@
 
 #### Languages I Code In
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)](https://skillicons.dev)
 
 
 #### Frameworks and Libraries 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010&animation=pulse)](https://expressjs.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010&color=6DB33F&animation=pulse)](https://spring.io/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010&animation=pulse)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)](https://skillicons.dev)
 
 
 ## 🔧 IDEs & Tools
