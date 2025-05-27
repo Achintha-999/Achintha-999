@@ -20,11 +20,11 @@
 
 
 #### Frameworks and Libraries 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)]
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate&perline=9)
 
 
 ## 🔧 IDEs & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,&perline=9)]
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,&perline=9)
 
 
 #### Database
