@@ -16,7 +16,7 @@
 
 #### Languages I Code In
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)]
+![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs&perline=9)
 
 
 #### Frameworks and Libraries 
