@@ -39,7 +39,8 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+
 <br> 
 
 ### 📊 Achintha Sandaruwan's GitHub Stats
@@ -56,7 +57,8 @@
 
 </a>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+
 
 
 <!-- Activity Graph (no border in container) -->
@@ -72,7 +74,8 @@
 ## 🏆 Achintha Sandaruwan's Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
+
 [![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
