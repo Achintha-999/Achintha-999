@@ -61,10 +61,9 @@
 
 
 <!-- Activity Graph (no border in container) -->
-<div style="width: 100%; max-width: 800px;">
+<div style="width: 100%; max-width: 600px;">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=000000&color=38BDF8&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=3B82F6"/>
-
+![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE)
 
 </div>
 
