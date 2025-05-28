@@ -45,7 +45,7 @@
 <div align="center">
 
 <!-- Stats + Streak in one row (no borders) -->
-<a href="https://github.com/Achintha-999">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
  <!-- <img height="180em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true"/> -->
@@ -54,7 +54,7 @@
 <!-- Languages centered below (no border) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-</a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
@@ -85,7 +85,7 @@
 
 
 ### 🎮 Fun Elements
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![Mario Kart](https://img.shields.io/badge/Play_Now-Luigi%20Wins!-red?style=for-the-badge&logo=nintendo-switch&logoColor=white&animation=spin)](https://github.com/Achintha-999)
 [![Tetris](https://img.shields.io/badge/Tetris-Level_10-blue?style=for-the-badge&logo=gamepad&logoColor=white&animation=pulse)](https://github.com/Achintha-999)
