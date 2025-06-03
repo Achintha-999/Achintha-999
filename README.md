@@ -74,7 +74,7 @@
 
 
 ## 🏆 Achintha Sandaruwan's Achievements
-![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
