@@ -48,13 +48,13 @@
 
 <!-- Stats + Streak in one row (no borders) -->
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
- <img height="150em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true&cache_bust=1"/> 
+ <img height="160em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true&cache_bust=1"/> 
 
 
 <!-- Languages centered below (no border) -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_bust=1"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_bust=1"/>
 
 
 
