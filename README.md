@@ -88,5 +88,5 @@
 ### 🎮 Fun Elements
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=600)
 
-[![Mario Kart](https://img.shields.io/badge/Play_Now-Luigi%20Wins!-red?style=for-the-badge&logo=nintendo-switch&logoColor=white&animation=spin)](https://github.com/Achintha-999)
+
 [![Tetris](https://img.shields.io/badge/Tetris-Level_10-blue?style=for-the-badge&logo=gamepad&logoColor=white&animation=pulse)](https://github.com/Achintha-999)
