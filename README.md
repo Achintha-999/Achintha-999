@@ -86,7 +86,6 @@
 
 
 ### 🎮 Fun Elements
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=600)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=800)
 
 
-[![Tetris](https://img.shields.io/badge/Tetris-Level_10-blue?style=for-the-badge&logo=gamepad&logoColor=white&animation=pulse)](https://github.com/Achintha-999)
