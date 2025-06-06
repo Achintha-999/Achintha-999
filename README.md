@@ -54,7 +54,7 @@
 
 
 <!-- Languages centered below (no border) -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_bust=2"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_bust=3"/>
 
 
 
@@ -65,7 +65,7 @@
 <!-- Activity Graph (no border in container) -->
 <div style="width: 100%; max-width: 500px;">
   
-![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=Achintha's%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE&cache_bust=1)
+![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=Achintha's%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE&cache_bust=2)
 
 </div>
 
