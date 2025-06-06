@@ -19,7 +19,7 @@
 
 #### 👩🏻‍💻 Languages I Code In and Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=10)
 
 
 #### 🧱 Frameworks and Libraries Currently Using & Learning
