@@ -56,7 +56,8 @@
 
 
 <!-- Languages centered below (no border) -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_bust=3"/>
+<img src="https://your-vercel-app.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
 
 
 
