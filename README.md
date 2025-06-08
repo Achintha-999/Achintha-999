@@ -90,6 +90,7 @@
 
 
 ### 🎮 Fun Elements
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100)
+<!--![Readme Quotes ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100 ) -->
+<img height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100"/>
 
 
