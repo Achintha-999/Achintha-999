@@ -10,7 +10,6 @@
 </div>
 
 
-
 - 👨‍💻 I'm currently learning **Coding**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: achinthasandaruwan517@gmail.com
