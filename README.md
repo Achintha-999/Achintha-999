@@ -4,6 +4,8 @@
 <div align="center">
   <img src="./0629%20(1).gif" alt="Demo" width="700" height="450" style="display: block; margin: 0 auto;" />
 </div>
+
+</br>
  
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;🚀+Open+Source+Contributor" alt="Typing Animation">
