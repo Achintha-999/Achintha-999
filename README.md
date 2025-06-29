@@ -5,12 +5,8 @@
   <img src="./0629%20(1).gif" alt="Demo" width="700" height="450" style="display: block; margin: 0 auto;" />
 </div> -->
 
-<div align="center">
-  <video width="500" controls autoplay loop muted>
-    <source src="./0629.mp4" type="video/mp4">
-    
-  </video>
-</div>
+
+![Demo Video](./0629.mp4)
 
 </br>
  
