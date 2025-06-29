@@ -1,7 +1,7 @@
 <div align="center">
  <!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700" height="400" alt="MasterHead"--> 
 
- ![Demo GIF](./0629%20(1).gif)
+![Demo GIF](https://github.com/Achintha-999/Achintha-999/raw/main/0629%20(1).gif)
  
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;🚀+Open+Source+Contributor" alt="Typing Animation">
