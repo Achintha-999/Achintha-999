@@ -5,8 +5,7 @@
   <img src="./0629%20(1).gif" alt="Demo" width="700" height="450" style="display: block; margin: 0 auto;" />
 </div> -->
 
-
-![Demo Video](./0629.mp4)
+<video src="./0629.mp4" width="500" controls muted loop></video>
 
 </br>
  
