@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Github%20Profile&fontSize=40&fontColor=ffffff)
 
 
 <div align="center">
@@ -92,7 +92,6 @@
 [![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
 
 <br>
@@ -101,3 +100,6 @@
 ### 🗣️💯 Facts
 <!--![Readme Quotes ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100 ) -->
 <img height="170em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100"/>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
