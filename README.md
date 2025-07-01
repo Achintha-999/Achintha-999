@@ -2,7 +2,7 @@
  <!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700" height="400" alt="MasterHead"--> 
 
 <div align="center">
-  <img src="./0629%20(1).gif" alt="Demo" width="650" height="450" style="display: block; margin: 0 auto;" />
+  <img src="./intro.gif" alt="Demo" width="650" height="450" style="display: block; margin: 0 auto;" />
 </div> 
 
 
