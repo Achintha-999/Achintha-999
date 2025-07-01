@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff)
+
+
 <div align="center">
  <!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700" height="400" alt="MasterHead"--> 
 
@@ -88,6 +91,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=13)](https://visitcount.itsvg.in)
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
 
 <br>
