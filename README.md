@@ -58,7 +58,7 @@
 
 <!-- Stats + Streak in one row (no borders) -->
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=7"/>
 
 
 <!--<img height="160em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true&cache_bust=1"/>  -->
@@ -85,7 +85,7 @@
 
 
 ## 🏆 Achintha Sandaruwan's Achievements
-![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_bust=7)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
