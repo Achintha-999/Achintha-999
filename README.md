@@ -58,14 +58,14 @@
 
 <!-- Stats + Streak in one row (no borders) -->
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=5"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6"/>
 
 
 <!--<img height="160em" src="https://streak-stats.demolab.com/?user=Achintha-999&theme=radical&hide_border=true&cache_bust=1"/>  -->
 
 
 <!-- Languages centered below (no border) -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true&cache_bust=7"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true&cache_bust=5"/>
 
 
 
@@ -76,7 +76,7 @@
 <!-- Activity Graph (no border in container) -->
 <div style="width: 100%; max-width: 500px;">
   
-![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=Achintha's%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE&cache_bust=6)
+![My Contribution Heatmap 🔥](https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=Achintha's%20Contribution%20Heatmap%20🔥&radius=10&area_color=BFDBFE&cache_bust=5)
 
 </div>
 
