@@ -9,7 +9,6 @@
 </div> 
 
 
-
 </br>
  
 <a href="https://git.io/typing-svg">
@@ -25,7 +24,7 @@
 - 📫 How to reach me: achinthasandaruwan517@gmail.com
   </br>
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+![visitors](https://img.shields.io/badge/Visitors-Count-blue)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
@@ -93,7 +92,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
-![visitors](https://img.shields.io/badge/Visitors-Count-blue)
+
 
 
 
@@ -107,3 +106,4 @@
 
 
 
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
