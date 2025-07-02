@@ -89,7 +89,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
-[![](https://visitcount.itsvg.in/api?id=Achintha-999&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Achintha-999&label=Profile%20Views&color=13&icon=0)](https://visitcount.itsvg.in)
 
 
 
