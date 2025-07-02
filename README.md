@@ -23,6 +23,10 @@
 - 👨‍💻 I'm currently learning **Coding**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: achinthasandaruwan517@gmail.com
+  </br>
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF" width="100%" />
 
 
@@ -102,4 +106,4 @@
 <img height="170em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100"/>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+
