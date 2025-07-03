@@ -22,7 +22,7 @@
 - 🌐 Ask me about **Web Development**
 - 📫 How to reach me: **achinthasandaruwan517@gmail.com**
 
----
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visitors-Count-blue" alt="Visitors Badge"/>
@@ -67,7 +67,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
----
+
 
 ## 🗺️ Achintha's Contribution Heatmap
 
@@ -79,7 +79,7 @@
 
 
 
-## 🏆 Achievements
+## 🏆Achintha's Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_bust=7" alt="GitHub Profile Trophy"/>
