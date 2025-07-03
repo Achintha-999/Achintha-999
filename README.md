@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 🗺️ Contribution Heatmap
+## 🗺️ Achintha's Contribution Heatmap
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph"/>
@@ -77,7 +77,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
----
+
 
 ## 🏆 Achievements
 
@@ -87,7 +87,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
----
+
 
 ## 🗣️ Quotes
 
@@ -95,6 +95,6 @@
   <img height="170em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100" alt="Quote"/>
 </div>
 
----
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
