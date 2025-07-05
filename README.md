@@ -2,6 +2,7 @@
 
 
 <div align="center">
+  
   <img src="./intro.gif" alt="Introduction Animation" width="680" height="380" style="display: block; margin: 0 auto;" />
 </div>
 
@@ -64,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true&cache_bust=5" alt="Top Languages"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=7" alt="GitHub Stats"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true&cache_bust=5" alt="Top Languages"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
