@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff)
 
 <div align="center">
-  <img src="./intro.gif" alt="Introduction Animation" width="680" height="480" style="display: block; margin: 0 auto;" />
+  <img src="./intro.gif" alt="Introduction Animation" width="680" height="380" style="display: block; margin: 0 auto;" />
 </div>
 
 <br/>
