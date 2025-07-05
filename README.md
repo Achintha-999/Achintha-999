@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=8" alt="GitHub Stats"/>
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=8" alt="GitHub Stats"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
