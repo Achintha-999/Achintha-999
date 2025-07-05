@@ -1,77 +1,100 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff)
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff" alt="Header Banner" />
+  <img src="./intro.gif" alt="Introduction Animation" width="680" height="480" style="display: block; margin: 0 auto;" />
 </div>
 
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;💫+Open+Source+Contributor" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;💫+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
 
 ---
 
 ## 👋 About Me
-- 🔭 I’m currently working on **web development projects**
-- 🌱 I’m learning **React, Node.js, and Cloud Technologies**
-- 💬 Ask me about **JavaScript, PHP, or Laravel**
-- 📫 Reach me: **achinthasandaruwan517@gmail.com**
-- 😄 Pronouns: **He/Him**
 
-<!-- Dynamic Visitor Counter -->
+- 👨‍💻 I’m currently learning **Coding**
+- 🌐 Ask me about **Web Development**
+- 📫 How to reach me: **achinthasandaruwan517@gmail.com**
+
+
+
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Achintha-999.Achintha-999" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Visitors-Count-blue" alt="Visitors Badge"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,java,py,cpp,cs&perline=9)
+### 👩🏻‍💻 Languages
 
-### 🏗️ Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,spring,bootstrap,tailwind&perline=8)
+![Languages](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=10)
 
-### 🛠️ Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,figma,mysql,mongodb,aws,azure&perline=9)
+### 🧱 Frameworks & Libraries
 
----
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind&perline=9)
+
+### 🔧 IDEs & Tools
+
+![IDEs & Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,unity&perline=9)
+
+### 🗃️ Databases
+
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=9)
+
+### 🎨 Design Tools
+
+![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,ae&perline=9)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Achintha-999&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=9&theme=radical&hide_border=true&cache_bust=5" alt="Top Languages"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
+
+## 🗺️ Achintha's Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=false&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=4" alt="Contribution Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
+
+## 🏆Achintha's Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
+
+## 🗣️ Quotes
+
+<div align="center">
+  <img height="200em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100" alt="Quote"/>
+</div>
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
