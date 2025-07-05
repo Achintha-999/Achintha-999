@@ -25,7 +25,9 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visitors-Count-blue" alt="Visitors Badge"/>
+  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Achintha-999.Achintha-999)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
