@@ -1,7 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff)
 
+
 <div align="center">
-  <img src="./intro.gif" alt="Introduction Animation" width="680" height="480" style="display: block; margin: 0 auto;" />
+  <img src="./intro.gif" alt="Introduction Animation" width="680" height="380" style="display: block; margin: 0 auto;" />
 </div>
 
 <br/>
@@ -10,6 +11,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;💫+Open+Source+Contributor" alt="Typing SVG" />
   </a>
+  
 </div>
 
 <br/>
@@ -23,9 +25,10 @@
 - 📫 How to reach me: **achinthasandaruwan517@gmail.com**
 
 
-
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Visitors-Count-blue" alt="Visitors Badge"/>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
