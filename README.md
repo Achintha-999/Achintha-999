@@ -43,7 +43,7 @@
 
 ### 🧱 Frameworks & Libraries
 
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,electron,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind&perline=10)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,electron,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind,jquery&perline=10)
 
 ### 🔧 IDEs & Tools
 
