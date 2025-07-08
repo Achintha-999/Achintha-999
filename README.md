@@ -27,8 +27,8 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Visitors-Count-blue" alt="Visitors Badge"/>
-  
+
+   <img src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
