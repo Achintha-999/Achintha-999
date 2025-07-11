@@ -29,7 +29,7 @@
  <div align="center">
 
   <span>
-    <img src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+    <img width="135px" src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
   </span>
 
   <span style="margin-left: 10px;">
