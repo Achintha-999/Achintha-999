@@ -29,6 +29,8 @@
   
 
    <img src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+   
+   [![GitHub Repositories](https://img.shields.io/badge/%20Repositories-Check%20Profile-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/Achintha-999?tab=repositories)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
