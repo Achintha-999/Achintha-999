@@ -28,7 +28,7 @@
 
   <div align="center" class= "row">
 
-  <div> <img src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic"></div>
+ <img src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
    
    [![GitHub Repositories](https://img.shields.io/badge/%20Repositories-Click%20Here-0891b2?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/Achintha-999?tab=repositories)
 
