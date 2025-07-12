@@ -29,10 +29,10 @@
  <div align="center">
 
   <span>
-    <img width="155px" src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+    <img width="160px" src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
   </span>
 
-  <span style="margin-left: 50px;">
+  <span style="margin-left: -50px;">
     <a href="https://github.com/Achintha-999?tab=repositories">
       <img src="https://img.shields.io/badge/%20Repositories-Click%20Here-0891b2?style=for-the-badge&logo=github&labelColor=000000">
     </a>
