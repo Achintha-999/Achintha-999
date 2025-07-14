@@ -88,10 +88,7 @@
 ## 🗺️ Achintha's Contribution Heatmap
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&area_color=3B82F6&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=8" alt="Contribution Graph"/>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&area_color=3B82F680&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=9" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
