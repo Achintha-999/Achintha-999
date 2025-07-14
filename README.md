@@ -89,7 +89,8 @@
 
 <div align="center">
   
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=7" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&area_color=3B82F6&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=8" alt="Contribution Graph"/>
+
 
 </div>
 
