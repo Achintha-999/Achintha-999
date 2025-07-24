@@ -24,8 +24,6 @@
 - 🌐 Ask me about **Web Development**
 - 📫 How to reach me: **achinthasandaruwan517@gmail.com**
 
-
-
  <div align="center">
 
   <span>
