@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6" alt="GitHub Stats"/>
-  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=12&theme=radical&hide_border=true&cache_bust=5" alt="Top Languages"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=7" alt="GitHub Stats"/>
+  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=12&theme=radical&hide_border=true&cache_bust=8" alt="Top Languages"/>
   
 </div>
 
@@ -85,7 +85,7 @@
 ## 🗺️ Achintha's Contribution Heatmap
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&area_color=3B82F680&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=6" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha-999&bg_color=transparent&color=3B82F6&line=3B82F6&point=60A5FA&area=true&area_color=3B82F680&hide_border=true&custom_title=📈%20Achintha's%20Contribution%20Graph&cache_bust=7" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
@@ -95,7 +95,7 @@
 ## 🏆Achintha's Achievements
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_bust=6" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
