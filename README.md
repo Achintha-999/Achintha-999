@@ -115,7 +115,8 @@
 
 
 
-  &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)]([https://discord.com/login?redirect_to=%2Fchannels%2F%40upekhansaja](https://discord.com/users/735575136928792586)) 
+
+  &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)](https://discord.com/users/735575136928792586) 
 
 </div>
 
