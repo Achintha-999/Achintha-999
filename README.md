@@ -108,18 +108,18 @@
 </div>
 
 
-### _Reach me! 💬:_
+### Reach me:
 
 
 <div style="width:'100%'; display: flex; align-items: center; justify-content: center;">
 
-<div align="center" style="width:'50%'; display: inline-block; align-items: center; justify-content: center;">
+
 
   &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)]([https://discord.com/login?redirect_to=%2Fchannels%2F%40upekhansaja](https://discord.com/users/735575136928792586)) 
 
 </div>
 
-</div>
+
 
 </br>
 
