@@ -72,7 +72,7 @@
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=6" alt="GitHub Stats"/>
-  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=12&theme=radical&hide_border=true&cache_bust=6" alt="Top Languages"/>
+  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=6" alt="Top Languages"/>
   
 </div>
 
@@ -95,7 +95,7 @@
 ## 🏆Achintha's Achievements
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
