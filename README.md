@@ -1,6 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Welcome%20to%20My%20GitHub%20Profile\&fontSize=40\&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=40&fontColor=ffffff)
 
-![3D Profile](https://raw.githubusercontent.com/Achintha-999/Achintha-999/main/profile-night-rainbow.svg)
 
 <div align="center">
   <img src="./intro.gif" alt="Introduction Animation" style="width: 680px; height: 480px; object-fit: cover;" />
@@ -8,10 +7,12 @@
 
 <br/>
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF2CC2&center=true&width=600&background=00000000&lines=Hi%2C+I'm+Achintha+Sandaruwan;⚡+Full+Stack+Developer;💫+Open+Source+Contributor" alt="Typing SVG" />
   </a>
+
 </div>
 
 <br/>
@@ -20,11 +21,12 @@
 
 ## 👋 About Me
 
-* 👨‍💻 I’m currently learning **Coding**
-* 🌐 Ask me about **Web Development**
-* 📫 How to reach me: **[achinthasandaruwan517@gmail.com](mailto:achinthasandaruwan517@gmail.com)**
+- 👨‍💻 I’m currently learning **Coding**
+- 🌐 Ask me about **Web Development**
+- 📫 How to reach me: **achinthasandaruwan517@gmail.com**
 
-<div align="center">
+ <div align="center">
+
   <span>
     <img width="160px" src="https://komarev.com/ghpvc/?username=Achintha-999&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
   </span>
@@ -34,42 +36,56 @@
       <img src="https://img.shields.io/badge/%20Repositories-Click%20Here-0891b2?style=for-the-badge&logo=github&labelColor=000000">
     </a>
   </span>
+
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+![3D Profile](https://raw.githubusercontent.com/Achintha-999/Achintha-999/main/profile-night-rainbow.svg)
+
+
 
 ## 🛠️ Tech Stack
 
 ### 👩🏻‍💻 Languages
 
-![Languages](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp\&perline=10)
+![Languages](https://skillicons.dev/icons?i=html,js,arduino,php,java,css,py,ts,cs,cpp&perline=10)
 
 ### 🧱 Frameworks & Libraries
 
-![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,electron,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind,jquery\&perline=11)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,electron,laravel,spring,express,nextjs,hibernate,bootstrap,tailwind,jquery&perline=11)
 
 ### 🔧 IDEs & Tools
 
-![IDEs & Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,unity\&perline=9)
+![IDEs & Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman,git,github,vite,unity&perline=9)
 
 ### 🗃️ Databases
 
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb\&perline=9)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=9)
 
 ### 🎨 Design Tools
 
-![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,ae\&perline=9)
+![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,ae&perline=9)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=2" alt="GitHub Stats"/>
   <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=13&theme=radical&hide_border=true&cache_bust=2" alt="Top Languages"/>
+
+
+
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
 
 ## 🗺️ Achintha's Contribution Heatmap
 
@@ -79,15 +95,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
 
-## 🏆 Achintha's Achievements
+
+
+## 🏆Achintha's Achievements
 
 <div align="center" style="margin: 20px 0;">
+  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
+ 
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Decorative GIF" width="100%" />
+
+
 
 ## 🗣️ Quotes
 
@@ -95,13 +118,22 @@
   <img height="200em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&size=100" alt="Quote"/>
 </div>
 
+
 ### Reach me:
 
+
 <div style="width:'100%'; display: flex; align-items: center; justify-content: center;">
-  &nbsp;[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/735575136928792586) 
+
+
+
+
+  &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)](https://discord.com/users/735575136928792586) 
+
 </div>
+
+
 
 </br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=80\&section=footer)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
