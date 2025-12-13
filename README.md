@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./intro.gif" alt="Introduction Animation" style="width: 480px; height: 280px; object-fit: cover;" />
+  <img src="./intro.gif" alt="Introduction Animation" style="width: 480px; height: 380px; object-fit: cover;" />
 </div>
 
 <br/>
