@@ -76,7 +76,7 @@
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Achintha-999&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_bust=4" alt="GitHub Stats"/>
-  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=13&theme=radical&hide_border=true&cache_bust=4" alt="Top Languages"/>
+  <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=13&theme=radical&hide_border=true&cache_bust=6" alt="Top Languages"/>
 
 
 
@@ -103,7 +103,7 @@
 <div align="center" style="margin: 20px 0;">
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Achintha-999&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
  
 
