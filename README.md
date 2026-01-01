@@ -129,7 +129,7 @@
 
 
 
-  &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)](https://discord.com/users/735575136928792586) 
+<!--  &nbsp;[!["Discord: ACHIYA"](https://skillicons.dev/icons?i=discord)](https://discord.com/users/735575136928792586)  -->
 
 </div>
 
