@@ -123,7 +123,8 @@
 ### Reach me:
 
 
-<div style="width:'100%'; display: flex; align-items: center; justify-content: center;">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/735575136928792586) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achintha.sandaruwan.73) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achi_ya_999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achintha-sandaruwan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Achiya999) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/achixya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/achinthasa17) 
 
 
 
