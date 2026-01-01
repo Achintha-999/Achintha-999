@@ -80,7 +80,7 @@
 <img width="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&layout=compact&langs_count=13&theme=radical&hide_border=true" alt="Top Languages"/>
 -->
 ![](https://github-readme-stats.vercel.app/api?username=Achintha-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Achintha-999&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
